@@ -8,7 +8,9 @@ esse fluxograma teve a participação dos alunos:
 2.Patriqui
 3.Rosane
 
+## Imagem Fluxograma:
 ![imagem](diagrama_projeto.png)
 
+## Imagem Circuito:
 ![imagem](img_projeto.png)
 
