@@ -10,5 +10,6 @@ esse fluxograma teve a participação dos alunos:
 
 ![imagem](diagrama_projeto.png)
 
+circuito:
 ![imagem](img_projeto.png)
 
